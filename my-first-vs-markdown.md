@@ -229,7 +229,7 @@ The corrections form contains only the specific fields that need to be revised.
 # Part 2. Using the TRS
 
 <!-- 2.1 -->
-## 2.1 Create and account and connect
+## 2.1 Create an account and connect
 
 Email. You receive an email with the link to reach the DLH Training Registration Platform. Follow the link to the Anonymous Web Entry page.
 
